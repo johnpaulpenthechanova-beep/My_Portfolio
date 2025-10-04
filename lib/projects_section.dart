@@ -22,8 +22,9 @@ class ProjectsSection extends StatelessWidget {
 
   final List<Project> projects = [
   Project(
-    title: 'E-commerce App',
-    description: 'A full-featured e-commerce mobile application with product listings, cart management, and checkout process.',
+    title: 'LinkedIn App',
+    description: 'This Flutter-built app (likely linkedIn mobile) shows a social media post about Mobile Legends: Bang Bang (MLBB)'
+    'key elements: Header, Post Content and UI Style.',
     githubLink: 'https://github.com/johndoe/ecommerce_app',
     backgroundColor: Colors.indigo[100], // Light blue for e-commerce
   ),

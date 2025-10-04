@@ -22,10 +22,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # Add assets section for background image
-  assets:
-    - assets/images/
-    # Add specific images if needed, e.g.:
+  # Add assets section for background image    # Add specific images if needed, e.g.:
     # - assets/images/background.jpg
 
   # Fonts section (if you add custom fonts later)
